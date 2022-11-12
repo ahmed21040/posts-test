@@ -1,6 +1,8 @@
 # posts-test
 
-I added postman collection file (`posts-test.postman_collection.json`)
+I added postman collection file (`posts-test.postman_collection.json`).
+
+I made some of basic error handling.
 
 I developed this endpoints:
 ### Login
